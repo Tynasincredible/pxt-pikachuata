@@ -1,4 +1,4 @@
-//% weight=20 color=#E3F8D8 icon="\uf017" block="MiaTime"
+//% weight=20 color=#56C8C0 icon="\uf017" block="MiaTime"
 namespace MiaTime {
 
     let _day = 1
