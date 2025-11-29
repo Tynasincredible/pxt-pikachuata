@@ -1,9 +1,12 @@
+//% weight=20 color=#E3F8D8 icon="\uf017" block="MiaTime"
 namespace MiaTime {
 
     let _day = 1
     let _month = 1
     let _year = 2025
 
+    //% block="setDate"
+    //% day.min=1 day.max=31
     export function setDate(day: number, month: number, year: number) {
         _day = day;
         _month = month;
